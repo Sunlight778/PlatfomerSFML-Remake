@@ -1,0 +1,3 @@
+C:/Users/Simon/Desktop/github/personal repos/PlatfomerSFML-Remake/cmake-build-debug/CMakeFiles/PlatformerSFML-Remake.dir
+C:/Users/Simon/Desktop/github/personal repos/PlatfomerSFML-Remake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Simon/Desktop/github/personal repos/PlatfomerSFML-Remake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

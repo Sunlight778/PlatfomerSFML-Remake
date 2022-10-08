@@ -1,0 +1,12 @@
+# ninja log v5
+1	106	6868969926364508	build.ninja	7dd6a5f6321b8d35
+0	167	6868958061387517	CMakeFiles/PlatfomerSFML_Remake.dir/src/main.cpp.obj	6c1b30bf88feb7cf
+276	496	6868969323011593	PlatformerSFML-Remake.exe	5beca04d2e5cfc20
+168	221	6868958061907807	PlatfomerSFML_Remake.exe	406db939e5bf2ae9
+1	265	6868969320761135	CMakeFiles/PlatformerSFML-Remake.dir/src/main.cpp.obj	2fd58f989a5561d8
+3	296	6868970407469105	CMakeFiles/PlatformerSFML-Remake.dir/src/main.cpp.obj	2fd58f989a5561d8
+297	745	6868970411887256	PlatformerSFML-Remake.exe	5beca04d2e5cfc20
+3	296	6868972892969517	CMakeFiles/PlatformerSFML-Remake.dir/src/main.cpp.obj	2fd58f989a5561d8
+307	784	6868972897777860	PlatformerSFML-Remake.exe	5beca04d2e5cfc20
+2	289	6868973045259023	CMakeFiles/PlatformerSFML-Remake.dir/src/main.cpp.obj	2fd58f989a5561d8
+290	738	6868973049672010	PlatformerSFML-Remake.exe	5beca04d2e5cfc20
